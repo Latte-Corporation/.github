@@ -36,7 +36,7 @@ We welcome contributions from the community! If you're interested in collaborati
 
 If you have any questions, suggestions, or just want to say hello, you can reach us at:
 
-- **Email:** contact@lattecorp.dev (coming soon)
+- **Email:** contact@lattecorp.dev
 - **Website:** [lattecorp.dev](https://lattecorp.dev) (coming soon)
 
 Thank you for visiting our GitHub organization! We look forward to building great things together.
